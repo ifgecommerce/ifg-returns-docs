@@ -1,6 +1,18 @@
 # Changelog — IFG Returns & Withdrawals
 
+🇬🇧 **English** · [🇮🇹 Italiano](it/CHANGELOG.md) · [🇩🇪 Deutsch](de/CHANGELOG.md) · [🇫🇷 Français](fr/CHANGELOG.md) · [🇪🇸 Español](es/CHANGELOG.md)
+
 A running record of what's new and improved. The app is updated frequently as we refine the returns and EU withdrawal-rights workflow.
+
+## 0.3.207 – 0.3.220 — July 2026
+- **Added** — The in-app Support chat now runs on a real conversational AI (Claude, with a Gemini fallback), remembers the conversation instead of answering message-by-message, and replies in whichever language you write in.
+- **Added** — When you ask to speak with a person, the conversation stays open and the merchant's reply now appears directly in the same chat — no more "we'll email you back."
+- **Improved** — The Support page was redesigned around 20 clearly explained FAQs (up from 10), fully translated into all 30 languages; the chat itself now lives only in the floating widget, available from every page.
+- **Added** — New setting for who covers the cost of return shipping (customer or merchant), automatically disclosed to the customer on the return form and in the confirmation email.
+- **Added** — A legal reminder now tracks the EU refund deadline from the customer's original request date, not from when the merchant approves it.
+- **Fixed** — A multi-package order no longer gets its return window blocked just because one package is still in transit; the window now starts once every package has arrived.
+- **Fixed** — Return requests on older orders (return windows longer than 60 days) are now verified correctly instead of showing "order not found."
+- **Changed** — New installs of the app now start in English by default, including throughout the guided onboarding; the interface and email language can still be changed to any of the 30 supported languages at any time.
 
 ## 0.3.206 — July 2026
 - **Improved** — Analytics overview redesigned into a clearer 6-card summary: return count, approval rate, average processing time, refunds issued, average item value, and full/partial split.

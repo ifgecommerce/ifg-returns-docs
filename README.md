@@ -1,5 +1,7 @@
 # IFG Returns & Withdrawals — Documentation
 
+🇬🇧 **English** · [🇮🇹 Italiano](it/README.md) · [🇩🇪 Deutsch](de/README.md) · [🇫🇷 Français](fr/README.md) · [🇪🇸 Español](es/README.md)
+
 Public documentation for the [IFG Returns & Withdrawals](https://ifgecommerce.com/) Shopify app.
 
 - [Getting started](TUTORIAL.md) — set up the return form and process your first request.

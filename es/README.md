@@ -1,0 +1,12 @@
+# IFG Returns & Withdrawals — Documentación
+
+[🇬🇧 English](../README.md) · [🇮🇹 Italiano](../it/README.md) · [🇩🇪 Deutsch](../de/README.md) · [🇫🇷 Français](../fr/README.md) · 🇪🇸 **Español**
+
+Documentación pública de la aplicación de Shopify [IFG Returns & Withdrawals](https://ifgecommerce.com/).
+
+- [Primeros pasos](TUTORIAL.md) — configura el formulario de devoluciones y procesa tu primera solicitud.
+- [Documentación](DOCUMENTATION.md) — planes y funciones, cumplimiento normativo de la UE, gestión de datos, idiomas.
+- [Registro de cambios](CHANGELOG.md) — las novedades de cada versión.
+- [Privacidad y gestión de datos](PRIVACY.md) — qué datos recopila la aplicación, por qué y durante cuánto tiempo.
+
+¿Tienes alguna pregunta? Usa el chat de soporte dentro de la aplicación o escribe a [info@ifgecommerce.com](mailto:info@ifgecommerce.com).
