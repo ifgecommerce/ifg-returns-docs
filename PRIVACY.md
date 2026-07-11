@@ -18,7 +18,7 @@ Merchants additionally provide their own company legal details and return addres
 
 - **Shopify** — to verify orders and, on eligible plans, to issue refunds directly (Shopify Admin API).
 - **Email delivery** (Nodemailer / Resend) — to send the customer's confirmation, receipt, and status-update emails.
-- **Google Gemini** — powers the in-app Support chat used by merchants to ask questions about the app. It processes the merchant's support question text, not customer order data.
+- **AI providers (Anthropic – Claude; alternatively Google – Gemini)** — power the in-app Support chat used by merchants to ask questions about the app. They process the merchant's support question text (not customer order data) to generate replies. This may involve processing outside the EU (United States) under appropriate contractual safeguards (Standard Contractual Clauses).
 
 Data is not sold or used for advertising.
 
