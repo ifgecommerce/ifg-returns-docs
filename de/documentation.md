@@ -1,7 +1,11 @@
 # Dokumentation — IFG Returns & Withdrawals
 
-<div class="lang-switcher" markdown="1">
-[<img src="../assets/flags/gb.svg" alt="" class="flag-icon"> English](../documentation.html) · [<img src="../assets/flags/it.svg" alt="" class="flag-icon"> Italiano](../it/documentation.html) · <img src="../assets/flags/de.svg" alt="" class="flag-icon"> **Deutsch** · [<img src="../assets/flags/fr.svg" alt="" class="flag-icon"> Français](../fr/documentation.html) · [<img src="../assets/flags/es.svg" alt="" class="flag-icon"> Español](../es/documentation.html)
+<div class="lang-switcher">
+  <a class="lang-item" href="../"><img src="../assets/flags/gb.svg" alt="" class="flag-icon">English</a>
+  <a class="lang-item" href="../it/"><img src="../assets/flags/it.svg" alt="" class="flag-icon">Italiano</a>
+  <span class="lang-item lang-current"><img src="../assets/flags/de.svg" alt="" class="flag-icon">Deutsch</span>
+  <a class="lang-item" href="../fr/"><img src="../assets/flags/fr.svg" alt="" class="flag-icon">Français</a>
+  <a class="lang-item" href="../es/"><img src="../assets/flags/es.svg" alt="" class="flag-icon">Español</a>
 </div>
 
 Referenzinformationen zu Plänen, zum Umgang mit der Konformität und zur Datenverarbeitung — ergänzend zum Support-Chat in der App für Fragen im Alltag.
