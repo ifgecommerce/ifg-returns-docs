@@ -1,5 +1,6 @@
 ---
 title: IFG Returns & Withdrawals
+description: Documentazione, FAQ e pagine legali per l'app Shopify IFG Returns & Withdrawals.
 ---
 
 # Centro Assistenza
@@ -29,4 +30,4 @@ Non hai trovato quello che cercavi? Usa la chat di Assistenza dentro l'app, oppu
 
 ---
 
-Realizzato da [IFG eCommerce](https://ifgecommerce.com/), agenzia Shopify Partner con sede a Roma.
+Realizzato da [IFG eCommerce](https://ifgecommerce.com/), freelance Shopify Partner con sede a Roma, Italia.

@@ -1,5 +1,6 @@
 ---
 title: IFG Returns & Withdrawals
+description: Dokumentation, FAQ und rechtliche Seiten für die Shopify-App IFG Returns & Withdrawals.
 ---
 
 # Dokumentation
