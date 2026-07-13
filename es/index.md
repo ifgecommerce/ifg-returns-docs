@@ -1,7 +1,11 @@
 # IFG Returns & Withdrawals — Centro de ayuda
 
-<div class="lang-switcher" markdown="1">
-[<img src="../assets/flags/gb.svg" alt="" class="flag-icon"> English](../) · [<img src="../assets/flags/it.svg" alt="" class="flag-icon"> Italiano](../it/) · [<img src="../assets/flags/de.svg" alt="" class="flag-icon"> Deutsch](../de/) · [<img src="../assets/flags/fr.svg" alt="" class="flag-icon"> Français](../fr/) · <img src="../assets/flags/es.svg" alt="" class="flag-icon"> **Español**
+<div class="lang-switcher">
+  <a class="lang-item" href="../"><img src="../assets/flags/gb.svg" alt="" class="flag-icon">English</a>
+  <a class="lang-item" href="../it/"><img src="../assets/flags/it.svg" alt="" class="flag-icon">Italiano</a>
+  <a class="lang-item" href="../de/"><img src="../assets/flags/de.svg" alt="" class="flag-icon">Deutsch</a>
+  <a class="lang-item" href="../fr/"><img src="../assets/flags/fr.svg" alt="" class="flag-icon">Français</a>
+  <span class="lang-item lang-current"><img src="../assets/flags/es.svg" alt="" class="flag-icon">Español</span>
 </div>
 
 IFG Returns & Withdrawals ayuda a los comerciantes de Shopify a gestionar las devoluciones de productos y el derecho de desistimiento de la UE de 14 días de principio a fin — un formulario de devolución personalizable en la tienda online, un panel de administración para revisar y procesar los casos, reembolsos automatizados y pleno cumplimiento de las normas europeas de protección al consumidor.

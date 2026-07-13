@@ -1,7 +1,11 @@
 # Getting started — IFG Returns & Withdrawals
 
-<div class="lang-switcher" markdown="1">
-<img src="assets/flags/gb.svg" alt="" class="flag-icon"> **English** · [<img src="assets/flags/it.svg" alt="" class="flag-icon"> Italiano](it/getting-started.html) · [<img src="assets/flags/de.svg" alt="" class="flag-icon"> Deutsch](de/getting-started.html) · [<img src="assets/flags/fr.svg" alt="" class="flag-icon"> Français](fr/getting-started.html) · [<img src="assets/flags/es.svg" alt="" class="flag-icon"> Español](es/getting-started.html)
+<div class="lang-switcher">
+  <span class="lang-item lang-current"><img src="assets/flags/gb.svg" alt="" class="flag-icon">English</span>
+  <a class="lang-item" href="it/"><img src="assets/flags/it.svg" alt="" class="flag-icon">Italiano</a>
+  <a class="lang-item" href="de/"><img src="assets/flags/de.svg" alt="" class="flag-icon">Deutsch</a>
+  <a class="lang-item" href="fr/"><img src="assets/flags/fr.svg" alt="" class="flag-icon">Français</a>
+  <a class="lang-item" href="es/"><img src="assets/flags/es.svg" alt="" class="flag-icon">Español</a>
 </div>
 
 Three short phases: set up the return form on your storefront, see what a customer experiences, then manage a request from your admin. Most stores are fully set up in under ten minutes.

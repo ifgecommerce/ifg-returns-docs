@@ -1,7 +1,11 @@
 # Privacy e gestione dei dati — IFG Returns & Withdrawals
 
-<div class="lang-switcher" markdown="1">
-[<img src="../assets/flags/gb.svg" alt="" class="flag-icon"> English](../privacy.html) · <img src="../assets/flags/it.svg" alt="" class="flag-icon"> **Italiano** · [<img src="../assets/flags/de.svg" alt="" class="flag-icon"> Deutsch](../de/privacy.html) · [<img src="../assets/flags/fr.svg" alt="" class="flag-icon"> Français](../fr/privacy.html) · [<img src="../assets/flags/es.svg" alt="" class="flag-icon"> Español](../es/privacy.html)
+<div class="lang-switcher">
+  <a class="lang-item" href="../"><img src="../assets/flags/gb.svg" alt="" class="flag-icon">English</a>
+  <span class="lang-item lang-current"><img src="../assets/flags/it.svg" alt="" class="flag-icon">Italiano</span>
+  <a class="lang-item" href="../de/"><img src="../assets/flags/de.svg" alt="" class="flag-icon">Deutsch</a>
+  <a class="lang-item" href="../fr/"><img src="../assets/flags/fr.svg" alt="" class="flag-icon">Français</a>
+  <a class="lang-item" href="../es/"><img src="../assets/flags/es.svg" alt="" class="flag-icon">Español</a>
 </div>
 
 Questa pagina descrive come l'app stessa raccoglie, utilizza e conserva i dati. Documenta il comportamento tecnico dell'app — non sostituisce la politica sulla privacy aziendale di IFG eCommerce e non costituisce consulenza legale.

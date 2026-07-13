@@ -1,7 +1,11 @@
 # IFG Returns & Withdrawals — Centro Assistenza
 
-<div class="lang-switcher" markdown="1">
-[<img src="../assets/flags/gb.svg" alt="" class="flag-icon"> English](../) · <img src="../assets/flags/it.svg" alt="" class="flag-icon"> **Italiano** · [<img src="../assets/flags/de.svg" alt="" class="flag-icon"> Deutsch](../de/) · [<img src="../assets/flags/fr.svg" alt="" class="flag-icon"> Français](../fr/) · [<img src="../assets/flags/es.svg" alt="" class="flag-icon"> Español](../es/)
+<div class="lang-switcher">
+  <a class="lang-item" href="../"><img src="../assets/flags/gb.svg" alt="" class="flag-icon">English</a>
+  <span class="lang-item lang-current"><img src="../assets/flags/it.svg" alt="" class="flag-icon">Italiano</span>
+  <a class="lang-item" href="../de/"><img src="../assets/flags/de.svg" alt="" class="flag-icon">Deutsch</a>
+  <a class="lang-item" href="../fr/"><img src="../assets/flags/fr.svg" alt="" class="flag-icon">Français</a>
+  <a class="lang-item" href="../es/"><img src="../assets/flags/es.svg" alt="" class="flag-icon">Español</a>
 </div>
 
 IFG Returns & Withdrawals aiuta i negozianti Shopify a gestire i resi prodotto e il diritto di recesso UE di 14 giorni end-to-end — un modulo di reso personalizzabile sullo storefront, una dashboard admin per revisionare e gestire le pratiche, rimborsi automatizzati e piena conformità alle norme UE sui diritti dei consumatori.
