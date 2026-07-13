@@ -1,5 +1,6 @@
 ---
 title: IFG Returns & Withdrawals
+description: Documentation, FAQ, and legal pages for the IFG Returns & Withdrawals Shopify app.
 ---
 
 # Help Center
@@ -29,4 +30,4 @@ Something not covered here? Use the Support chat inside the app, or email [info@
 
 ---
 
-Built by [IFG eCommerce](https://ifgecommerce.com/), a Shopify Partner agency based in Rome, Italy.
+Built by [IFG eCommerce](https://ifgecommerce.com/), a freelance Shopify Partner based in Rome, Italy.
