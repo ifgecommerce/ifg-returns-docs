@@ -1,6 +1,8 @@
 # Changelog — IFG Returns & Withdrawals
 
-[🇬🇧 English](../changelog.html) · [🇮🇹 Italiano](../it/changelog.html) · 🇩🇪 **Deutsch** · [🇫🇷 Français](../fr/changelog.html) · [🇪🇸 Español](../es/changelog.html)
+<div class="lang-switcher" markdown="1">
+[<img src="../assets/flags/gb.svg" alt="" class="flag-icon"> English](../changelog.html) · [<img src="../assets/flags/it.svg" alt="" class="flag-icon"> Italiano](../it/changelog.html) · <img src="../assets/flags/de.svg" alt="" class="flag-icon"> **Deutsch** · [<img src="../assets/flags/fr.svg" alt="" class="flag-icon"> Français](../fr/changelog.html) · [<img src="../assets/flags/es.svg" alt="" class="flag-icon"> Español](../es/changelog.html)
+</div>
 
 Eine laufend aktualisierte Übersicht aller Neuerungen und Verbesserungen. Die App wird häufig aktualisiert, während wir den Ablauf für Rückgaben und EU-Widerrufsrechte weiter verfeinern.
 

@@ -1,6 +1,8 @@
 # Datenschutz und Datenverarbeitung — IFG Returns & Withdrawals
 
-[🇬🇧 English](../privacy.html) · [🇮🇹 Italiano](../it/privacy.html) · 🇩🇪 **Deutsch** · [🇫🇷 Français](../fr/privacy.html) · [🇪🇸 Español](../es/privacy.html)
+<div class="lang-switcher" markdown="1">
+[<img src="../assets/flags/gb.svg" alt="" class="flag-icon"> English](../privacy.html) · [<img src="../assets/flags/it.svg" alt="" class="flag-icon"> Italiano](../it/privacy.html) · <img src="../assets/flags/de.svg" alt="" class="flag-icon"> **Deutsch** · [<img src="../assets/flags/fr.svg" alt="" class="flag-icon"> Français](../fr/privacy.html) · [<img src="../assets/flags/es.svg" alt="" class="flag-icon"> Español](../es/privacy.html)
+</div>
 
 Diese Seite beschreibt, wie die App selbst Daten erfasst, verwendet und aufbewahrt. Sie dokumentiert das technische Verhalten der App — sie ersetzt nicht die unternehmensweite Datenschutzerklärung von IFG eCommerce und stellt keine Rechtsberatung dar.
 

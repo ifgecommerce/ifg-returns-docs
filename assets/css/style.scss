@@ -1,0 +1,36 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Selettore lingua: reso una vera barra sempre visibile in cima a ogni
+   pagina (sfondo distinto dal corpo, bandiere reali invece di emoji —
+   gli emoji bandiera non si renderizzano su Windows/Segoe UI Emoji, che
+   mostra solo le due lettere del codice paese). */
+.lang-switcher {
+  display: block;
+  background: #f6f8fa;
+  border: 1px solid #e1e4e8;
+  border-radius: 6px;
+  padding: 10px 16px;
+  margin: 0 0 28px;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.lang-switcher .flag-icon {
+  width: 20px;
+  height: 15px;
+  vertical-align: middle;
+  margin: 0 4px 2px 0;
+  border-radius: 2px;
+  box-shadow: 0 0 0 1px rgba(27, 31, 35, 0.15);
+}
+
+.lang-switcher a {
+  text-decoration: none;
+}
+
+.lang-switcher a:hover {
+  text-decoration: underline;
+}

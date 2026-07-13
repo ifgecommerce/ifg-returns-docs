@@ -1,6 +1,8 @@
 # Registro de cambios — IFG Returns & Withdrawals
 
-[🇬🇧 English](../changelog.html) · [🇮🇹 Italiano](../it/changelog.html) · [🇩🇪 Deutsch](../de/changelog.html) · [🇫🇷 Français](../fr/changelog.html) · 🇪🇸 **Español**
+<div class="lang-switcher" markdown="1">
+[<img src="../assets/flags/gb.svg" alt="" class="flag-icon"> English](../changelog.html) · [<img src="../assets/flags/it.svg" alt="" class="flag-icon"> Italiano](../it/changelog.html) · [<img src="../assets/flags/de.svg" alt="" class="flag-icon"> Deutsch](../de/changelog.html) · [<img src="../assets/flags/fr.svg" alt="" class="flag-icon"> Français](../fr/changelog.html) · <img src="../assets/flags/es.svg" alt="" class="flag-icon"> **Español**
+</div>
 
 Un registro continuo de las novedades y mejoras. La aplicación se actualiza con frecuencia a medida que perfeccionamos el flujo de trabajo de devoluciones y derecho de desistimiento de la UE.
 
