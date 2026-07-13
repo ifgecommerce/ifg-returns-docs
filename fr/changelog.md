@@ -1,6 +1,6 @@
 # Journal des modifications — IFG Returns & Withdrawals
 
-[🇬🇧 English](../CHANGELOG.md) · [🇮🇹 Italiano](../it/CHANGELOG.md) · [🇩🇪 Deutsch](../de/CHANGELOG.md) · 🇫🇷 **Français** · [🇪🇸 Español](../es/CHANGELOG.md)
+[🇬🇧 English](../changelog.html) · [🇮🇹 Italiano](../it/changelog.html) · [🇩🇪 Deutsch](../de/changelog.html) · 🇫🇷 **Français** · [🇪🇸 Español](../es/changelog.html)
 
 Un historique continu des nouveautés et améliorations. L'application est mise à jour fréquemment à mesure que nous affinons le flux de traitement des retours et du droit de rétractation européen.
 

@@ -1,6 +1,6 @@
 # Documentation — IFG Returns & Withdrawals
 
-[🇬🇧 English](../DOCUMENTATION.md) · [🇮🇹 Italiano](../it/DOCUMENTATION.md) · [🇩🇪 Deutsch](../de/DOCUMENTATION.md) · 🇫🇷 **Français** · [🇪🇸 Español](../es/DOCUMENTATION.md)
+[🇬🇧 English](../documentation.html) · [🇮🇹 Italiano](../it/documentation.html) · [🇩🇪 Deutsch](../de/documentation.html) · 🇫🇷 **Français** · [🇪🇸 Español](../es/documentation.html)
 
 Informations de référence sur les offres, la gestion de la conformité et les pratiques en matière de données — en complément du chat d'assistance intégré à l'application pour les questions du quotidien.
 

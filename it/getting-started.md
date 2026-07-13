@@ -1,6 +1,6 @@
 # Guida introduttiva — IFG Returns & Withdrawals
 
-[🇬🇧 English](../TUTORIAL.md) · 🇮🇹 **Italiano** · [🇩🇪 Deutsch](../de/TUTORIAL.md) · [🇫🇷 Français](../fr/TUTORIAL.md) · [🇪🇸 Español](../es/TUTORIAL.md)
+[🇬🇧 English](../getting-started.html) · 🇮🇹 **Italiano** · [🇩🇪 Deutsch](../de/getting-started.html) · [🇫🇷 Français](../fr/getting-started.html) · [🇪🇸 Español](../es/getting-started.html)
 
 Tre brevi fasi: configura il modulo di reso sul tuo storefront, scopri cosa vede il cliente, poi gestisci una richiesta dal tuo pannello admin. La maggior parte dei negozi completa la configurazione in meno di dieci minuti.
 

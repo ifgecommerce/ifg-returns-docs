@@ -1,6 +1,6 @@
 # Changelog — IFG Returns & Withdrawals
 
-🇬🇧 **English** · [🇮🇹 Italiano](it/CHANGELOG.md) · [🇩🇪 Deutsch](de/CHANGELOG.md) · [🇫🇷 Français](fr/CHANGELOG.md) · [🇪🇸 Español](es/CHANGELOG.md)
+🇬🇧 **English** · [🇮🇹 Italiano](it/changelog.html) · [🇩🇪 Deutsch](de/changelog.html) · [🇫🇷 Français](fr/changelog.html) · [🇪🇸 Español](es/changelog.html)
 
 A running record of what's new and improved. The app is updated frequently as we refine the returns and EU withdrawal-rights workflow.
 

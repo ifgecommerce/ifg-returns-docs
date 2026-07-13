@@ -1,6 +1,6 @@
 # Primeros pasos — IFG Returns & Withdrawals
 
-[🇬🇧 English](../TUTORIAL.md) · [🇮🇹 Italiano](../it/TUTORIAL.md) · [🇩🇪 Deutsch](../de/TUTORIAL.md) · [🇫🇷 Français](../fr/TUTORIAL.md) · 🇪🇸 **Español**
+[🇬🇧 English](../getting-started.html) · [🇮🇹 Italiano](../it/getting-started.html) · [🇩🇪 Deutsch](../de/getting-started.html) · [🇫🇷 Français](../fr/getting-started.html) · 🇪🇸 **Español**
 
 Tres fases breves: configura el formulario de devoluciones en tu tienda online, comprueba qué experimenta un cliente y, después, gestiona una solicitud desde tu panel de administración. La mayoría de las tiendas quedan totalmente configuradas en menos de diez minutos.
 
