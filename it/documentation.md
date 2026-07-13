@@ -1,4 +1,10 @@
-# Documentazione — IFG Returns & Withdrawals
+---
+title: IFG Returns & Withdrawals
+---
+
+# Documentazione
+
+[← Centro Assistenza](index.html)
 
 <div class="lang-switcher">
   <a class="lang-item" href="../"><img src="../assets/flags/gb.svg" alt="" class="flag-icon">English</a>
