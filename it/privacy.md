@@ -1,6 +1,6 @@
 # Privacy e gestione dei dati — IFG Returns & Withdrawals
 
-[🇬🇧 English](../PRIVACY.md) · 🇮🇹 **Italiano** · [🇩🇪 Deutsch](../de/PRIVACY.md) · [🇫🇷 Français](../fr/PRIVACY.md) · [🇪🇸 Español](../es/PRIVACY.md)
+[🇬🇧 English](../privacy.html) · 🇮🇹 **Italiano** · [🇩🇪 Deutsch](../de/privacy.html) · [🇫🇷 Français](../fr/privacy.html) · [🇪🇸 Español](../es/privacy.html)
 
 Questa pagina descrive come l'app stessa raccoglie, utilizza e conserva i dati. Documenta il comportamento tecnico dell'app — non sostituisce la politica sulla privacy aziendale di IFG eCommerce e non costituisce consulenza legale.
 

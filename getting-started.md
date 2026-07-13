@@ -1,6 +1,6 @@
 # Getting started — IFG Returns & Withdrawals
 
-🇬🇧 **English** · [🇮🇹 Italiano](it/TUTORIAL.md) · [🇩🇪 Deutsch](de/TUTORIAL.md) · [🇫🇷 Français](fr/TUTORIAL.md) · [🇪🇸 Español](es/TUTORIAL.md)
+🇬🇧 **English** · [🇮🇹 Italiano](it/getting-started.html) · [🇩🇪 Deutsch](de/getting-started.html) · [🇫🇷 Français](fr/getting-started.html) · [🇪🇸 Español](es/getting-started.html)
 
 Three short phases: set up the return form on your storefront, see what a customer experiences, then manage a request from your admin. Most stores are fully set up in under ten minutes.
 

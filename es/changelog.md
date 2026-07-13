@@ -1,6 +1,6 @@
 # Registro de cambios — IFG Returns & Withdrawals
 
-[🇬🇧 English](../CHANGELOG.md) · [🇮🇹 Italiano](../it/CHANGELOG.md) · [🇩🇪 Deutsch](../de/CHANGELOG.md) · [🇫🇷 Français](../fr/CHANGELOG.md) · 🇪🇸 **Español**
+[🇬🇧 English](../changelog.html) · [🇮🇹 Italiano](../it/changelog.html) · [🇩🇪 Deutsch](../de/changelog.html) · [🇫🇷 Français](../fr/changelog.html) · 🇪🇸 **Español**
 
 Un registro continuo de las novedades y mejoras. La aplicación se actualiza con frecuencia a medida que perfeccionamos el flujo de trabajo de devoluciones y derecho de desistimiento de la UE.
 

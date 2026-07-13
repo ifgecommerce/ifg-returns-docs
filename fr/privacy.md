@@ -1,6 +1,6 @@
 # Confidentialité et gestion des données — IFG Returns & Withdrawals
 
-[🇬🇧 English](../PRIVACY.md) · [🇮🇹 Italiano](../it/PRIVACY.md) · [🇩🇪 Deutsch](../de/PRIVACY.md) · 🇫🇷 **Français** · [🇪🇸 Español](../es/PRIVACY.md)
+[🇬🇧 English](../privacy.html) · [🇮🇹 Italiano](../it/privacy.html) · [🇩🇪 Deutsch](../de/privacy.html) · 🇫🇷 **Français** · [🇪🇸 Español](../es/privacy.html)
 
 Cette page décrit comment l'application elle-même collecte, utilise et conserve les données. Elle documente le comportement technique de l'application — elle ne remplace pas la politique de confidentialité globale d'IFG eCommerce, et ne constitue pas un conseil juridique.
 
