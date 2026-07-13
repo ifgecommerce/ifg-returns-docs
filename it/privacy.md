@@ -1,4 +1,10 @@
-# Privacy e gestione dei dati — IFG Returns & Withdrawals
+---
+title: IFG Returns & Withdrawals
+---
+
+# Privacy e gestione dei dati
+
+[← Centro Assistenza](index.html)
 
 <div class="lang-switcher">
   <a class="lang-item" href="../"><img src="../assets/flags/gb.svg" alt="" class="flag-icon">English</a>

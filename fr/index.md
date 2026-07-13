@@ -1,3 +1,7 @@
+---
+title: IFG Returns & Withdrawals
+---
+
 # Centre d'aide
 
 <div class="lang-switcher">

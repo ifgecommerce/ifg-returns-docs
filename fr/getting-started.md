@@ -1,4 +1,10 @@
-# Prise en main — IFG Returns & Withdrawals
+---
+title: IFG Returns & Withdrawals
+---
+
+# Prise en main
+
+[← Centre d'aide](index.html)
 
 <div class="lang-switcher">
   <a class="lang-item" href="../"><img src="../assets/flags/gb.svg" alt="" class="flag-icon">English</a>

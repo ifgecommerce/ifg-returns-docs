@@ -1,4 +1,10 @@
-# Erste Schritte — IFG Returns & Withdrawals
+---
+title: IFG Returns & Withdrawals
+---
+
+# Erste Schritte
+
+[← Hilfe-Center](index.html)
 
 <div class="lang-switcher">
   <a class="lang-item" href="../"><img src="../assets/flags/gb.svg" alt="" class="flag-icon">English</a>

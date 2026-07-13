@@ -1,4 +1,10 @@
-# Datenschutz und Datenverarbeitung — IFG Returns & Withdrawals
+---
+title: IFG Returns & Withdrawals
+---
+
+# Datenschutz und Datenverarbeitung
+
+[← Hilfe-Center](index.html)
 
 <div class="lang-switcher">
   <a class="lang-item" href="../"><img src="../assets/flags/gb.svg" alt="" class="flag-icon">English</a>

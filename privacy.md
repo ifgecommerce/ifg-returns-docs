@@ -1,4 +1,10 @@
-# Privacy & Data Handling — IFG Returns & Withdrawals
+---
+title: IFG Returns & Withdrawals
+---
+
+# Privacy & Data Handling
+
+[← Help Center](index.html)
 
 <div class="lang-switcher">
   <span class="lang-item lang-current"><img src="assets/flags/gb.svg" alt="" class="flag-icon">English</span>
