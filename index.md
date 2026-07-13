@@ -1,6 +1,8 @@
-# Help Center
+# IFG Returns & Withdrawals — Help Center
 
-🇬🇧 **English** · [🇮🇹 Italiano](it/) · [🇩🇪 Deutsch](de/) · [🇫🇷 Français](fr/) · [🇪🇸 Español](es/)
+<div class="lang-switcher" markdown="1">
+<img src="assets/flags/gb.svg" alt="" class="flag-icon"> **English** · [<img src="assets/flags/it.svg" alt="" class="flag-icon"> Italiano](it/) · [<img src="assets/flags/de.svg" alt="" class="flag-icon"> Deutsch](de/) · [<img src="assets/flags/fr.svg" alt="" class="flag-icon"> Français](fr/) · [<img src="assets/flags/es.svg" alt="" class="flag-icon"> Español](es/)
+</div>
 
 IFG Returns & Withdrawals helps Shopify merchants manage product returns and the EU 14-day right of withdrawal end to end — a customizable storefront return form, an admin dashboard to review and process cases, automated refund workflows, and full compliance with EU consumer-rights rules.
 

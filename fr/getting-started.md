@@ -1,6 +1,8 @@
 # Prise en main — IFG Returns & Withdrawals
 
-[🇬🇧 English](../getting-started.html) · [🇮🇹 Italiano](../it/getting-started.html) · [🇩🇪 Deutsch](../de/getting-started.html) · 🇫🇷 **Français** · [🇪🇸 Español](../es/getting-started.html)
+<div class="lang-switcher" markdown="1">
+[<img src="../assets/flags/gb.svg" alt="" class="flag-icon"> English](../getting-started.html) · [<img src="../assets/flags/it.svg" alt="" class="flag-icon"> Italiano](../it/getting-started.html) · [<img src="../assets/flags/de.svg" alt="" class="flag-icon"> Deutsch](../de/getting-started.html) · <img src="../assets/flags/fr.svg" alt="" class="flag-icon"> **Français** · [<img src="../assets/flags/es.svg" alt="" class="flag-icon"> Español](../es/getting-started.html)
+</div>
 
 Trois étapes courtes : configurez le formulaire de retour sur votre boutique en ligne, découvrez ce que voit un client, puis gérez une demande depuis votre interface d'administration. La plupart des boutiques sont entièrement configurées en moins de dix minutes.
 

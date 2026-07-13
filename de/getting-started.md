@@ -1,6 +1,8 @@
 # Erste Schritte — IFG Returns & Withdrawals
 
-[🇬🇧 English](../getting-started.html) · [🇮🇹 Italiano](../it/getting-started.html) · 🇩🇪 **Deutsch** · [🇫🇷 Français](../fr/getting-started.html) · [🇪🇸 Español](../es/getting-started.html)
+<div class="lang-switcher" markdown="1">
+[<img src="../assets/flags/gb.svg" alt="" class="flag-icon"> English](../getting-started.html) · [<img src="../assets/flags/it.svg" alt="" class="flag-icon"> Italiano](../it/getting-started.html) · <img src="../assets/flags/de.svg" alt="" class="flag-icon"> **Deutsch** · [<img src="../assets/flags/fr.svg" alt="" class="flag-icon"> Français](../fr/getting-started.html) · [<img src="../assets/flags/es.svg" alt="" class="flag-icon"> Español](../es/getting-started.html)
+</div>
 
 Drei kurze Phasen: das Rückgabeformular im Storefront einrichten, nachvollziehen, was der Kunde erlebt, und anschließend eine Anfrage im Admin-Bereich bearbeiten. Die meisten Shops sind in unter zehn Minuten vollständig eingerichtet.
 

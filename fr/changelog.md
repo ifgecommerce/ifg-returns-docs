@@ -1,6 +1,8 @@
 # Journal des modifications — IFG Returns & Withdrawals
 
-[🇬🇧 English](../changelog.html) · [🇮🇹 Italiano](../it/changelog.html) · [🇩🇪 Deutsch](../de/changelog.html) · 🇫🇷 **Français** · [🇪🇸 Español](../es/changelog.html)
+<div class="lang-switcher" markdown="1">
+[<img src="../assets/flags/gb.svg" alt="" class="flag-icon"> English](../changelog.html) · [<img src="../assets/flags/it.svg" alt="" class="flag-icon"> Italiano](../it/changelog.html) · [<img src="../assets/flags/de.svg" alt="" class="flag-icon"> Deutsch](../de/changelog.html) · <img src="../assets/flags/fr.svg" alt="" class="flag-icon"> **Français** · [<img src="../assets/flags/es.svg" alt="" class="flag-icon"> Español](../es/changelog.html)
+</div>
 
 Un historique continu des nouveautés et améliorations. L'application est mise à jour fréquemment à mesure que nous affinons le flux de traitement des retours et du droit de rétractation européen.
 

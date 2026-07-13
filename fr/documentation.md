@@ -1,6 +1,8 @@
 # Documentation — IFG Returns & Withdrawals
 
-[🇬🇧 English](../documentation.html) · [🇮🇹 Italiano](../it/documentation.html) · [🇩🇪 Deutsch](../de/documentation.html) · 🇫🇷 **Français** · [🇪🇸 Español](../es/documentation.html)
+<div class="lang-switcher" markdown="1">
+[<img src="../assets/flags/gb.svg" alt="" class="flag-icon"> English](../documentation.html) · [<img src="../assets/flags/it.svg" alt="" class="flag-icon"> Italiano](../it/documentation.html) · [<img src="../assets/flags/de.svg" alt="" class="flag-icon"> Deutsch](../de/documentation.html) · <img src="../assets/flags/fr.svg" alt="" class="flag-icon"> **Français** · [<img src="../assets/flags/es.svg" alt="" class="flag-icon"> Español](../es/documentation.html)
+</div>
 
 Informations de référence sur les offres, la gestion de la conformité et les pratiques en matière de données — en complément du chat d'assistance intégré à l'application pour les questions du quotidien.
 

@@ -1,6 +1,8 @@
 # Changelog — IFG Returns & Withdrawals
 
-[🇬🇧 English](../changelog.html) · 🇮🇹 **Italiano** · [🇩🇪 Deutsch](../de/changelog.html) · [🇫🇷 Français](../fr/changelog.html) · [🇪🇸 Español](../es/changelog.html)
+<div class="lang-switcher" markdown="1">
+[<img src="../assets/flags/gb.svg" alt="" class="flag-icon"> English](../changelog.html) · <img src="../assets/flags/it.svg" alt="" class="flag-icon"> **Italiano** · [<img src="../assets/flags/de.svg" alt="" class="flag-icon"> Deutsch](../de/changelog.html) · [<img src="../assets/flags/fr.svg" alt="" class="flag-icon"> Français](../fr/changelog.html) · [<img src="../assets/flags/es.svg" alt="" class="flag-icon"> Español](../es/changelog.html)
+</div>
 
 Un registro continuo delle novità e dei miglioramenti. L'app viene aggiornata di frequente man mano che perfezioniamo il flusso di gestione dei resi e del diritto di recesso UE.
 
