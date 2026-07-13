@@ -1,4 +1,4 @@
-# IFG Returns & Withdrawals — Help Center
+# Help Center
 
 <div class="lang-switcher">
   <span class="lang-item lang-current"><img src="assets/flags/gb.svg" alt="" class="flag-icon">English</span>

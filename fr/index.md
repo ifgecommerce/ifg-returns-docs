@@ -1,4 +1,4 @@
-# IFG Returns & Withdrawals — Centre d'aide
+# Centre d'aide
 
 <div class="lang-switcher">
   <a class="lang-item" href="../"><img src="../assets/flags/gb.svg" alt="" class="flag-icon">English</a>
