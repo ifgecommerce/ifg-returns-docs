@@ -1,15 +1,5 @@
 # Documentation
 
-[← Help Center](index.html)
-
-<div class="lang-switcher">
-  <span class="lang-item lang-current"><img src="assets/flags/gb.svg" alt="" class="flag-icon">English</span>
-  <a class="lang-item" href="it/"><img src="assets/flags/it.svg" alt="" class="flag-icon">Italiano</a>
-  <a class="lang-item" href="de/"><img src="assets/flags/de.svg" alt="" class="flag-icon">Deutsch</a>
-  <a class="lang-item" href="fr/"><img src="assets/flags/fr.svg" alt="" class="flag-icon">Français</a>
-  <a class="lang-item" href="es/"><img src="assets/flags/es.svg" alt="" class="flag-icon">Español</a>
-</div>
-
 Reference information about plans, compliance handling, and data practices — alongside the in-app Support chat for day-to-day questions.
 
 - [Overview](#overview)
