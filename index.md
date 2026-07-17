@@ -21,6 +21,7 @@ This site has everything you need whether you're using the app, evaluating it, o
 
 - **[Getting Started](getting-started.html)** — set up the return form and process your first request.
 - **[Documentation](documentation.html)** — plans & features, EU compliance, data handling, languages.
+- **[Pricing](pricing.html)** — plans, prices, and what's included in each tier.
 - **[Changelog](changelog.html)** — what's shipped, in order.
 - **[Privacy Policy](privacy.html)** — what data we collect, why, and who we share it with.
 
