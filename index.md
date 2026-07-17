@@ -30,4 +30,4 @@ Something not covered here? Use the Support chat inside the app, or email [info@
 
 ---
 
-Built by [IFG eCommerce](https://ifgecommerce.com/), a freelance Shopify Partner based in Rome, Italy.
+Built by IFG eCommerce, a freelance Shopify Partner based in Rome, Italy.
