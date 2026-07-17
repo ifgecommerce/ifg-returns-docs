@@ -30,4 +30,4 @@ Vous ne trouvez pas ce que vous cherchez ? Utilisez le chat d'assistance dans l'
 
 ---
 
-Créé par [IFG eCommerce](https://ifgecommerce.com/), freelance Shopify Partner basé à Rome, Italie.
+Créé par IFG eCommerce, freelance Shopify Partner basé à Rome, Italie.

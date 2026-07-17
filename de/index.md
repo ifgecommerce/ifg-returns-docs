@@ -30,4 +30,4 @@ Etwas nicht gefunden? Nutzen Sie den Support-Chat in der App oder schreiben Sie 
 
 ---
 
-Erstellt von [IFG eCommerce](https://ifgecommerce.com/), einem freelance Shopify Partner mit Sitz in Rom, Italien.
+Erstellt von IFG eCommerce, einem freelance Shopify Partner mit Sitz in Rom, Italien.

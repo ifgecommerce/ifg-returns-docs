@@ -30,4 +30,4 @@ Este sitio tiene todo lo que necesitas, ya sea que estés usando la aplicación,
 
 ---
 
-Creado por [IFG eCommerce](https://ifgecommerce.com/), freelance Shopify Partner con sede en Roma, Italia.
+Creado por IFG eCommerce, freelance Shopify Partner con sede en Roma, Italia.

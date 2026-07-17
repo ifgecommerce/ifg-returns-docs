@@ -30,4 +30,4 @@ Non hai trovato quello che cercavi? Usa la chat di Assistenza dentro l'app, oppu
 
 ---
 
-Realizzato da [IFG eCommerce](https://ifgecommerce.com/), freelance Shopify Partner con sede a Roma, Italia.
+Realizzato da IFG eCommerce, freelance Shopify Partner con sede a Roma, Italia.
