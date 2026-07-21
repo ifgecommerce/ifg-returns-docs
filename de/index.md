@@ -21,6 +21,7 @@ Diese Seite enthält alles, was Sie brauchen — egal ob Sie die App nutzen, eva
 
 - **[Erste Schritte](getting-started.html)** — richten Sie das Rückgabeformular ein und bearbeiten Sie Ihre erste Anfrage.
 - **[Dokumentation](documentation.html)** — Pläne & Funktionen, EU-Konformität, Datenverarbeitung, Sprachen.
+- **[FAQ](faq.html)** — die 20 häufigsten Fragen zur Installation, Konfiguration und Nutzung der App.
 - **[Changelog](changelog.html)** — was in welcher Reihenfolge veröffentlicht wurde.
 - **[Datenschutzerklärung](privacy.html)** — welche Daten wir erfassen, warum, und mit wem wir sie teilen.
 

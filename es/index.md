@@ -21,6 +21,7 @@ Este sitio tiene todo lo que necesitas, ya sea que estés usando la aplicación,
 
 - **[Primeros pasos](getting-started.html)** — configura el formulario de devoluciones y procesa tu primera solicitud.
 - **[Documentación](documentation.html)** — planes y funciones, cumplimiento normativo de la UE, gestión de datos, idiomas.
+- **[FAQ](faq.html)** — las 20 preguntas más frecuentes sobre la instalación, configuración y uso de la app.
 - **[Registro de cambios](changelog.html)** — las novedades, en orden.
 - **[Política de privacidad](privacy.html)** — qué datos recopilamos, por qué, y con quién los compartimos.
 
