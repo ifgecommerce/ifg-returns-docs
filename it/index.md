@@ -21,6 +21,7 @@ Questo sito contiene tutto quello che serve, che tu stia usando l'app, valutando
 
 - **[Guida introduttiva](getting-started.html)** — configura il modulo di reso e gestisci la tua prima richiesta.
 - **[Documentazione](documentation.html)** — piani e funzionalità, conformità UE, gestione dei dati, lingue.
+- **[FAQ](faq.html)** — le 20 domande più frequenti su installazione, configurazione e utilizzo dell'app.
 - **[Changelog](changelog.html)** — le novità di ogni versione.
 - **[Privacy Policy](privacy.html)** — quali dati raccogliamo, perché, e con chi li condividiamo.
 

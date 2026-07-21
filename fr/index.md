@@ -21,6 +21,7 @@ Ce site contient tout ce dont vous avez besoin, que vous utilisiez l'application
 
 - **[Prise en main](getting-started.html)** — configurez le formulaire de retour et traitez votre première demande.
 - **[Documentation](documentation.html)** — offres et fonctionnalités, conformité UE, gestion des données, langues.
+- **[FAQ](faq.html)** — les 20 questions les plus fréquentes sur l'installation, la configuration et l'utilisation de l'application.
 - **[Journal des modifications](changelog.html)** — les nouveautés, dans l'ordre.
 - **[Politique de confidentialité](privacy.html)** — quelles données nous collectons, pourquoi, et avec qui nous les partageons.
 
